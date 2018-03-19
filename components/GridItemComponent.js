@@ -26,8 +26,8 @@ export default class GridItemComponent extends Component {
   }
 }
 
-const width = 160,
-  height = 160,
+const width = 190,
+  height = 190,
   borders = {
     tl: 3,
     tr: 3,

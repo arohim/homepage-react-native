@@ -43,9 +43,9 @@ export default class App extends Component {
 
 const styles = StyleSheet.create({
   toolbar: {
-    height: 50,
+    height: 60,
     width: 1000,
-    backgroundColor: "#4286f4"
+    backgroundColor: "#407ffb"
   },
   container: {
     flex: 1,

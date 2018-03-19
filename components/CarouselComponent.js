@@ -19,7 +19,7 @@ export default class CarouselComponent extends Component {
     return (
       <View>
         <Text style={styles.paragraph}>{this.props.title}</Text>
-        <Text style={styles.underline}>---------------------------------------------------------------------------------------</Text>
+        <Text style={styles.underline}>-----------------------------------------------------------------------------------------------------</Text>
         <View style={styles.container}>
           <ListView
             horizontal={true}

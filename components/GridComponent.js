@@ -16,7 +16,7 @@ export default class GridComponent extends Component {
     return (
       <View>
         <Text style={styles.paragraph}>{this.props.title}</Text>
-        <Text style={styles.underline}>-------------------------------------------------------------------------------------</Text>
+        <Text style={styles.underline}>-----------------------------------------------------------------------------------------------------</Text>
         <View style={styles.container}>
           <GridView
               itemDimension={130}
