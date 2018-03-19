@@ -1,0 +1,154 @@
+[
+  {
+    "title": "Recommended",
+    "layout_type": "carousel_items",
+    "items": [
+      {
+        "title": "An Apple",
+        "description": "An Apple",
+        "link": {
+          "web": "https://www.google.com",
+          "android_deeplink": "https://www.google.com",
+          "ios_deeplink": "https://www.google.com"
+        },
+        "images": {
+          "medium": "https://1.cdn.edl.io/5nPKnBJy6VYFP6qxG6GZsJM88rMsJi9nR6f4KAQ9jw4DUMTa.jpg",
+          "large": "https://1.cdn.edl.io/5nPKnBJy6VYFP6qxG6GZsJM88rMsJi9nR6f4KAQ9jw4DUMTa.jpg",
+          "small": "https://1.cdn.edl.io/5nPKnBJy6VYFP6qxG6GZsJM88rMsJi9nR6f4KAQ9jw4DUMTa.jpg"
+        },
+      },
+      {
+        "title": "An Orange",
+        "description": "An Orange",
+        "link": {
+          "web": "https://www.google.com",
+          "android_deeplink": "https://www.google.com",
+          "ios_deeplink": "https://www.google.com"
+        },
+        "images": {
+          "medium": "http://nobacks.com/wp-content/uploads/2014/11/Orange-1-500x433.png",
+          "large": "http://nobacks.com/wp-content/uploads/2014/11/Orange-1-500x433.png",
+          "small": "http://nobacks.com/wp-content/uploads/2014/11/Orange-1-500x433.png"
+        },
+      },
+      {
+        "title": "Blue berries",
+        "description": "Blue berries",
+        "link": {
+          "web": "https://www.google.com",
+          "android_deeplink": "https://www.google.com",
+          "ios_deeplink": "https://www.google.com"
+        },
+        "images": {
+          "medium": "https://image.freepik.com/free-photo/blueberries-isolated-on-white-background-blueberry-border-design-ripe-and-juicy-fresh-picked-bilberries-close-up-copyspace-top-view-or-flat-lay_1391-713.jpg",
+          "large": "https://image.freepik.com/free-photo/blueberries-isolated-on-white-background-blueberry-border-design-ripe-and-juicy-fresh-picked-bilberries-close-up-copyspace-top-view-or-flat-lay_1391-713.jpg",
+          "small": "https://image.freepik.com/free-photo/blueberries-isolated-on-white-background-blueberry-border-design-ripe-and-juicy-fresh-picked-bilberries-close-up-copyspace-top-view-or-flat-lay_1391-713.jpg",
+        }
+      },
+      {
+        "title": "Cherries",
+        "description": "Cherries",
+        "link": {
+          "web": "https://www.google.com",
+          "android_deeplink": "https://www.google.com",
+          "ios_deeplink": "https://www.google.com"
+        },
+        "images": {
+          "medium": "http://nobacks.com/wp-content/uploads/2014/11/Cherry-23-500x381.png",
+          "large": "http://nobacks.com/wp-content/uploads/2014/11/Cherry-23-500x381.png",
+          "small": "http://nobacks.com/wp-content/uploads/2014/11/Cherry-23-500x381.png",
+        }
+      }
+    ]
+  },
+  {
+    "title": "Vegetables",
+    "layout_type": "grid_items",
+    "items": [
+      {
+        "title": "Baby corn",
+        "description": "Baby corn",
+        "link": {
+          "web": "https://www.google.com",
+          "android_deeplink": "https://www.google.com",
+          "ios_deeplink": "https://www.google.com"
+        },
+        "images": {
+          "medium": "https://thumbs.dreamstime.com/b/baby-corn-isolated-white-background-35612508.jpg",
+          "large": "https://thumbs.dreamstime.com/b/baby-corn-isolated-white-background-35612508.jpg",
+          "small": "https://thumbs.dreamstime.com/b/baby-corn-isolated-white-background-35612508.jpg",
+        },
+      },
+      {
+        "description": "Pepper",
+        "title": "Pepper",
+        "link": {
+          "web": "https://www.google.com",
+          "android_deeplink": "https://www.google.com",
+          "ios_deeplink": "https://www.google.com"
+        },
+        "images": {
+          "medium": "http://img.cadnav.com/allimg/151210/cadnav-151210233232-52.jpg",
+          "large": "http://img.cadnav.com/allimg/151210/cadnav-151210233232-52.jpg",
+          "small": "http://img.cadnav.com/allimg/151210/cadnav-151210233232-52.jpg"
+        }
+      },
+      {
+        "title": "Avocado",
+        "description": "Avocado",
+        "link": {
+          "web": "https://www.google.com",
+          "android_deeplink": "https://www.google.com",
+          "ios_deeplink": "https://www.google.com"
+        },
+        "images": {
+          "medium": "https://www.bbcgoodfood.com/sites/default/files/guide/guide-image/2017/01/avocado.jpg",
+          "large": "https://www.bbcgoodfood.com/sites/default/files/guide/guide-image/2017/01/avocado.jpg",
+          "small": "https://www.bbcgoodfood.com/sites/default/files/guide/guide-image/2017/01/avocado.jpg",
+        },
+      },
+      {
+        "title": "Olive",
+        "description": "Olive",
+        "link": {
+          "web": "https://www.google.com",
+          "android_deeplink": "https://www.google.com",
+          "ios_deeplink": "https://www.google.com"
+        },
+        "images": {
+          "medium": "http://seasonstaproom.com/assets/green-olives-960x400.jpg",
+          "large": "http://seasonstaproom.com/assets/green-olives-960x400.jpg",
+          "small": "http://seasonstaproom.com/assets/green-olives-960x400.jpg",
+        },
+      },
+      {
+        "title": "Tomato",
+        "description": "Tomato",
+        "link": {
+          "web": "https://www.google.com",
+          "android_deeplink": "https://www.google.com",
+          "ios_deeplink": "https://www.google.com"
+        },
+        "images": {
+          "medium": "https://www.healthline.com/hlcmsresource/images/AN_images/AN313-Tomatoes-732x549-Thumb.jpg",
+          "large": "https://www.healthline.com/hlcmsresource/images/AN_images/AN313-Tomatoes-732x549-Thumb.jpg",
+          "small": "https://www.healthline.com/hlcmsresource/images/AN_images/AN313-Tomatoes-732x549-Thumb.jpg",
+        }
+      },
+      {
+        "title": "Green bean",
+        "description": "Green bean",
+        "link": {
+          "web": "https://www.google.com",
+          "android_deeplink": "https://www.google.com",
+          "ios_deeplink": "https://www.google.com"
+        },
+        "images": {
+          "medium": "https://img.aws.livestrongcdn.com/ls-article-image-673/ds-photo/getty/article/144/161/464586256.jpg",
+          "large": "https://img.aws.livestrongcdn.com/ls-article-image-673/ds-photo/getty/article/144/161/464586256.jpg",
+          "small": "https://img.aws.livestrongcdn.com/ls-article-image-673/ds-photo/getty/article/144/161/464586256.jpg",
+        }
+      }
+    ]
+  }
+]
