@@ -1,5 +1,5 @@
 # homepage-react-native
-This project is POC to comparing between Native &amp; React Native
+This project is a POC project for comparing between Native &amp; React Native
 
 ## Screenshots
 <div style="display:flex;" >
